@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    background-color: yellowgreen;
+    color: red;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    
+}
+nav ul{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 20%;
+
+}
+nav ul a{
+    font-size: 20px;
+    font-weight: 300;
+    color: rgb(248, 246, 246);
+    text-decoration: none;
+    
+}
+nav ul a :hover{
+    color: orangered;
+    cursor: pointer;
+}

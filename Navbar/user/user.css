@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.user{
+    box-shadow: 10px 8px 15px -2px rgb(230, 122, 122);
+    background-color: bisque;
+    margin-bottom: 30px;
+    width: 500px;
+    padding: 20px;
+}
+
+.delete{
+    background-color: rgb(255, 238, 127);
+    color: black;
+    font-size: 14px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 8px;
+    margin-top: 20px;
+}
+.bottom{
+    margin-top: 10px;
+}
+.user span{
+    font-weight: 500;
+    color: brown;
+}
